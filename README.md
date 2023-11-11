@@ -13,7 +13,7 @@ Il peut arriver qu'on puisse avoir des StackOverFlow Exception dans le test aux 
 Avec plus de temps, j'aurais bien mieux testé l'ensemble des classes (dont l'Utils) et les méthodes de Range.
 
 Sur l'algo de Tree, en cas aux limites, on voit un petit gain de performances comparés à l'algo Naive (10/20%). 
-Cela est surement plus intéressant sur des Ranges avec du sens métier, permettant d'écarter polus facilement beaucoup plus de ranges. 
+Cela est surement plus intéressant sur des Ranges avec du sens métier, permettant d'écarter plus facilement beaucoup plus de ranges (n'étant pas uniformément réparti comme avec des Ranges aléatoire). 
 
 Sur l'algo basé sur les arbres, je me suis très clairement inspiré de celui de Wikipédia.
 Dans ma pratique au quotidien, j'utilise les algos de recherche déjà implémenté que de réinventer la roue. 
