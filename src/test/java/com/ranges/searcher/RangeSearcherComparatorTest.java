@@ -23,7 +23,7 @@ public class RangeSearcherComparatorTest {
     private TreeRangeSearcher treeRangeSearcher;
 
     /**
-     * Obviously, initializing the tree as a cost, compared to the naive searcher, I will not compare the initialization
+     * Obviously, initializing the tree has a cost, compared to the naive searcher, I will not compare the initialization
      */
     @Test
     public void performanceTest() {
@@ -36,7 +36,7 @@ public class RangeSearcherComparatorTest {
     }
 
     /**
-     * System.currentTimeMillis() method is not very accurate for very low delay (below 10ms) but it will be enough for this this, It will last multiple seconds
+     * System.currentTimeMillis() method is not very accurate for very low delay (below 10ms) but it will be enough for this this, It will lasts multiple seconds
      */
     private long searchAddReturnDelay(RangeSearcher rangeSearcher) {
         long startTime = System.currentTimeMillis();
