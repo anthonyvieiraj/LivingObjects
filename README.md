@@ -4,7 +4,7 @@ Le projet a été réalisé en à peu près 2 heures, le temps maximal que j'all
 
 Quelques points d'améliorations ont été notés, comme par exemple, ne pas faire d'appel récursif afin d'éviter des StackOverFlow Exception. 
 
-Faire du parcours d'arbre en itératif est bien meilleur lors que la taille de l'arbre (et donc la récursivité) est importante mais cela demande bien plus de temps à etre codé (sans la pratique au quotidien de parcours d'arbres immenses).
+Faire du parcours d'arbre en itératif est bien meilleur lors que la taille de l'arbre (et donc la récursivité) est importante mais cela demande bien plus de temps à etre codé (sans la pratique au quotidien de parcours d'arbres immenses en itératif, c'est loin d'etre trivial).
 
 J'ai également utilisé des TU pour mesurer les performances, chose qui n'est pas très CI/CD friendly, les pipelines de test se doivent d'etre courtes. 
 
