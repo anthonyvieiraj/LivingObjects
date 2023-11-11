@@ -1,6 +1,6 @@
 # Observations
 
-Le projet a été réalisé en 2 heures, le temps maximal que j'alloue à un test technique. 
+Le projet a été réalisé en à peu près 2 heures, le temps maximal que j'alloue à un test technique en général. 
 
 Quelques points d'améliorations ont été notés, comme par exemple, ne pas faire d'appel récursif afin d'éviter des StackOverFlow Exception. 
 
